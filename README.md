@@ -1,4 +1,7 @@
-# botlist
+# BOTLIST
+To see the DEMO click [link here](https://chelovekozavr.github.io/botlist/)
+
+stack: Vue, Vuex, Sass
 
 ## Project setup
 ```
